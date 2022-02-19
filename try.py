@@ -16,7 +16,7 @@ while count < 5:
         'authorization': 'Your token here'
 }
 
-    r = requests.post("https://discord.com/api/v9/channels/923994324453179443/messages", data=payload, headers=heade>
+    r = requests.post("Your Channel Here", data=payload, headers=header>
 
 
     sleep(3)
